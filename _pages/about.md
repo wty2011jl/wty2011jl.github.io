@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Biography"
+title: "WANTING YANG-Personal Biography"
 author_profile: true
 redirect_from: 
   - /about/
