@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "WANTING.png"
   name             : |
-  <p align="center">
-    WANTING YANG<br>
-    杨·婉婷 :)
-  </p>#"WANTING YANG / 杨.婉婷：)"
+    <p align="center">
+      WANTING YANG<br>
+      杨·婉婷 :)
+    </p>#"WANTING YANG / 杨.婉婷：)"
   pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
   location         : "Singapore"
@@ -81,8 +81,8 @@ author:
   youtube          : # Username
   zhihu            : # Username
   quote: |
-  *Every step we take shapes who we become :)*  
-  *Dust will settle as we go along :D*
+    *Every step we take shapes who we become :)*  
+    *Dust will settle as we go along :D*
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
