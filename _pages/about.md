@@ -1,15 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Personal Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Dr. Wanting Yang received the B.S. degree and the Ph.D. degree from the Department of Communications Engineering, Jilin University, Changchun, China, in 2018 and 2023, respectively. She was a visiting student with Singapore University of Technology and Design from 10/2021 to 11/2022. She is currently a Research Scientist at the SUTD Wireless Innovation Centre (SWIC), serving as a Principal Investigator on projects related to generative semantic communication. Prior to this, she was a Research Fellow with the ISTD and ESD pillars at the Singapore University of Technology and Design (SUTD).
+She served as Technical Programme Committee member and reviewers in flagship conferences, such as WCNC, Globecom, ICC, and VTC, and top journals. Her research interests include semantic communication, deep reinforcement learning, martingale theory, edge computing, edge intelligence, generative AI.
 
 A data-driven personal website
 ======
