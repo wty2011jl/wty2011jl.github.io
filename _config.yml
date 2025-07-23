@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "WANTING.png"
-  name             : "WANTING YANG (杨.婉婷：）)"
+  name             : "WANTING YANG / 杨.婉婷：)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  #bio              : "Short biography for the left-hand sidebar"
+  location         : "Singapore"
+  employer         : "SUTD SWIC"
   uri              : # URL
   email            : "wanting_yang@sutd.edu.sg" 
 
