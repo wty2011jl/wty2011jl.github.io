@@ -27,7 +27,7 @@ author:
     <p align="center">
       WANTING YANG<br>
       杨·婉婷 :)
-    </p>#"WANTING YANG / 杨.婉婷：)"
+    </p> 
   pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
   location         : "Singapore"
@@ -45,6 +45,9 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : #"https://www.researchgate.net/profile/Wanting-Yang-8?ev=hdr_xprf"
   scopus           : # URL
+  quote: |
+    *Every step we take shapes who we become :)*  
+    *Dust will settle as we go along :D*
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -80,9 +83,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  quote: |
-    *Every step we take shapes who we become :)*  
-    *Dust will settle as we go along :D*
+  
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
