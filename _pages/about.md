@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Biography"
+title: "WANTING Biography"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,14 +11,17 @@ Dr. Wanting Yang is currently a Research Scientist at the SUTD Wireless Innovati
 
 She has served as a Technical Program Committee (TPC) member and reviewer for flagship conferences such as IEEE WCNC, Globecom, ICC, and VTC, as well as for leading journals. Her research interests include semantic communication, deep reinforcement learning, martingale theory, edge computing, edge intelligence, and generative AI.
 
-A data-driven personal website
-======
+## Work Experience
 
+###  Research Scientist  
+**SUTD Wireless Innovation Centre (SWIC), Singapore University of Technology and Design (SUTD)**  
+*2024.12 – Present*  
+- Serving as Principal Investigator on a project related to **generative semantic communication**.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+###  Research Fellow  
+**ISTD Pillars, Singapore University of Technology and Design (SUTD)**  
+*2023.8 – 2025.4*  
+- - Serving as Lead Participant on a project focused on the **synergy between edge intelligence and semantic communication**.
 
 Getting started
 ======
