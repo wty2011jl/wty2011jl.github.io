@@ -45,3 +45,8 @@ Pillar of Information Systems Technology and Design
 - B.Eng. in Optoelectronic Information Science and Engineering  
 - B.Sc. in Computer Science and Technology  
 - GPA: **3.48 / 4.0**, Ranking: **10 / 89**
+
+## Tiny wisdom to keep： 
+- *Every step we take shapes who we become.* :-)    
+- *Dust will settle as we go along.* :D  
+- *Follow intuition in crossroads, reason in routines.* :P  
