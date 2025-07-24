@@ -22,3 +22,26 @@ She has served as a Technical Program Committee (TPC) member and reviewer for fl
 2023.8 – 2025.4  
 --Serving as *Lead Participant* on a project on the **synergy between edge intelligence and semantic communication**.
 
+## Education
+
+### Ph.D. in Information and Communications Engineering  
+**Jilin University**, Dept. of Communications Engineering  
+*Aug 2018 – Jun 2023*  
+- Comprehensive performance ranking: **6 / 30**
+
+### Visiting Ph.D. (Semantic Communication)  
+**Singapore University of Technology and Design (SUTD)**,  
+Pillar of Information Systems Technology and Design  
+*Oct 2021 – Nov 2022*  
+- Supported by China Scholarship Council (CSC)
+
+### Bachelor of Engineering in Optoelectronic Information Science and Engineering  
+**Jilin University**, Dept. of Communications Engineering  
+*Aug 2014 – Jun 2018*
+
+### Dual Bachelor's Degrees  
+**Jilin University**  
+*Aug 2014 – Jun 2018*  
+- B.Eng. in Optoelectronic Information Science and Engineering  
+- B.Sc. in Computer Science and Technology  
+- GPA: **3.48 / 4.0**, Ranking: **10 / 89**
