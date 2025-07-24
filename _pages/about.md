@@ -13,12 +13,12 @@ She has served as a Technical Program Committee (TPC) member and reviewer for fl
 ## Work Experience
 
 ###  Research Scientist  
-**SUTD Wireless Innovation Centre (SWIC), Singapore University of Technology and Design (SUTD)**  
-*2024.12 – Present*  
-- Serving as *Principal Investigator* on a project related to generative semantic communication.
+*SUTD Wireless Innovation Centre (SWIC), Singapore University of Technology and Design (SUTD)*  
+2024.12 – Present  
+<div style="margin-left: 2em">Serving as *Principal Investigator* on a project related to **generative semantic communication**.
 
 ###  Research Fellow  
-**ISTD Pillars, Singapore University of Technology and Design (SUTD)**  
-*2023.8 – 2025.4*  
-- Serving as *Lead Participant* on a project on the synergy between edge intelligence and semantic communication.
+*ISTD Pillars, Singapore University of Technology and Design (SUTD)*  
+2023.8 – 2025.4  
+<div style="margin-left: 2em">Serving as *Lead Participant* on a project on the **synergy between edge intelligence and semantic communication**.
 
