@@ -23,7 +23,7 @@ redirect_from:
 
 ###  Magazine Articles
 
-- [WCM] **W. Yang** et al., "Rethinking Generative Semantic Communication for Multi-User Systems with Large Language Models," in IEEE Wireless Communications, 2025. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10964151](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10972177)
+- [WCM] **W. Yang** et al., "Rethinking Generative Semantic Communication for Multi-User Systems with Large Language Models," in IEEE Wireless Communications, 2025. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10972177)
 - [Network] **W. Yang**, Z. Xiong, T. Q. S. Quek and X. Shen, "Streamlined Transmission: A Semantic-Aware XR Deployment Framework Enhanced by Generative AI," in IEEE Network, vol. 38, no. 6, pp. 29-38, Nov. 2024. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10557693)
 
 ### Letters
