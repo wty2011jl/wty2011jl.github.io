@@ -235,6 +235,13 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  project-experience:
+    output: true
+    permalink: /:collection/:path/
+  student-mentoring:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # These settings control how pages and collections are included in the site
