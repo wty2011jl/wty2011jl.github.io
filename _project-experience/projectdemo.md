@@ -2,7 +2,7 @@
 ---
 title: "Selected Research Projects"
 layout: page
-permalink: /projects/
+permalink: /project-experience/
 ---
 
 ### 🧪 Ongoing & Recent Projects
