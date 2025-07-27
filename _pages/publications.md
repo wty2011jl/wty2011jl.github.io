@@ -30,10 +30,10 @@ redirect_from:
 
 - [WCL] **W. Yang**, X. Chi, L. Zhao and Z. Xiong, "QoE-Based MEC-Assisted Predictive Adaptive Video Streaming for On-Road Driving Scenarios," in IEEE Wireless Communications Letters, vol. 10, no. 11, pp. 2552-2556, Nov. 2021. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9520822)
 
-### 🎤 Conference Papers
+### Conference Papers
 
 - [WCNC] **W. Yang**, Z. Xiong, H. Du, Y. Yuan and T. Q. S. Quek, "Semantic Change Driven Generative Semantic Communication Framework," 2024 IEEE Wireless Communications and Networking Conference (WCNC), Dubai, United Arab Emirates, 2024, pp. 01-06. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10571010)
-- [ICC] W. Yang, X. Chi and L. Zhao, "Proactive VoD delivery pattern reconfiguration based on temporal-spatial channel prediction," ICC 2020 - 2020 IEEE International Conference on Communications (ICC), Dublin, Ireland, 2020, pp. 1-7. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9149070)
+- [ICC] **W. Yang**, X. Chi and L. Zhao, "Proactive VoD delivery pattern reconfiguration based on temporal-spatial channel prediction," ICC 2020 - 2020 IEEE International Conference on Communications (ICC), Dublin, Ireland, 2020, pp. 1-7. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9149070)
 
 ---
 
@@ -49,5 +49,5 @@ redirect_from:
 
 - [IOTJ ]H. Yan, X. Chi, **W. Yang**, Z. Xiong and Z. Han, "Maximum Throughput Analysis in Hybrid Energy Harvesting Wireless Communication Systems Based on Martingale Theory," in IEEE Internet of Things Journal, vol. 11, no. 23, pp. 38054-38067, 1 Dec.1, 2024. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10634856)
 - [TVT] H. Yan, X. Chi, **W. Yang** and Z. Han, "End-to-End Delay Analysis for Multi-Hop Wireless Links Based on Martingale Theory," in IEEE Transactions on Vehicular Technology, vol. 73, no. 9, pp. 13090-13096, Sept. 2024. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10502194)
-- 
+  
 
