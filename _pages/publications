@@ -1,0 +1,47 @@
+---
+layout: archive
+title: "Selected Publications"
+permalink: /project-experience/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+
+## 🧑‍💼 First-author Work
+
+### 📖 Survey Papers
+
+- **Yang, W.**, Zhang, X., et al. *Collaborative Perception in Vehicular Networks: A Real-World-Oriented Survey of Opportunities and Perspectives*. IEEE Communications Surveys & Tutorials, 2025. *(Under review)*  
+  [PDF](#) · [BibTeX](#)
+
+### 🧪 Technical Journal Papers
+
+- **Yang, W.**, Li, Y., & Zhang, M. *Generative Semantic Communication for Multi-Agent Edge Sensing*. IEEE Transactions on Wireless Communications, 2024.  
+  [PDF](#) · [Code](#)
+
+### 📰 Magazine Articles
+
+- **Yang, W.**, *Edge-AI Meets Semantic Communication: Challenges and Roadmap*. IEEE Communications Magazine, 2024.
+
+### ✉️ Letters
+
+- **Yang, W.**, Wang, L. *Fast Feedback Estimation in Semantic Radio Systems*. IEEE Wireless Communication Letters, 2023.
+
+### 🎤 Conference Papers
+
+- **Yang, W.**, *Diffusion Models for Point Cloud SemCom*. Proc. of IEEE ICC 2024.
+
+---
+
+## 👩‍🏫 Mentored Work
+
+- Zhang, H., **mentored by Yang, W.**, *Diffusion-based Semantic Point Cloud Compression*. Proc. of IEEE ICME 2025.  
+- Liu, R., **mentored by Yang, W.**, *Adaptive Grouping in Multi-Agent SemCom*, IEEE GLOBECOM 2024.
+
+---
+
+## 🤝 Co-author Work
+
+- Zhang, X., **Yang, W.**, & Zhou, M. *Semantic Signal Shaping via Reinforcement Learning*. IEEE Transactions on Mobile Computing, 2023.  
+- Li, K., **Yang, W.**, & Tan, H. *LLM-Driven Feedback in Multi-Agent Systems*. IEEE TNNLS, 2024.
