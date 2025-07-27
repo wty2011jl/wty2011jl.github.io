@@ -1,7 +1,7 @@
 
 ---
 title: "Selected Research Projects"
-layout: page
+layout: archive
 permalink: /project-experience/projects/
 ---
 
