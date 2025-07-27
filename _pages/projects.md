@@ -1,8 +1,10 @@
-
 ---
-title: "Selected Research Projects"
 layout: archive
-permalink: /project-experience/projects/
+title: "Selected Research Projects"
+permalink: /project-experience/
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
 ### Ongoing & Recent Projects
