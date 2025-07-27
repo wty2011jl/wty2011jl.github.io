@@ -5,7 +5,7 @@ layout: page
 permalink: /project-experience/
 ---
 
-### 🧪 Ongoing & Recent Projects
+### Ongoing & Recent Projects
 
 - **Industry Collaboration Project (_Confidential_)**  
   *Research on Generative Semantic Communication*  
@@ -22,7 +22,7 @@ permalink: /project-experience/
 
 ---
 
-### 🎓 Projects During PhD Training
+### Projects During PhD Training
 
 - **Huawei Technologies Co., Ltd**, Transversal Project  
   *Martingale-based Delay Theory Research Project*  
