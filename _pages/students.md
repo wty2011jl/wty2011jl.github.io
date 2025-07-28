@@ -37,7 +37,7 @@ redirect_from:
 
 
 ## **Hangyu Yan** (Joint PhD, Jilin University & SUTD)     
-*Role*: **Research Guide**  (2024.2 -- 2025.2) 
+*Role*: **Research Guide**  (2024.2 -- 2025.2)      
 *Topic*: Martingale Theory Applictaions       
 *Supervisors*: Prof. Xuefen Chi, Prof. Zehui Xiong     
 **Outcome**           
