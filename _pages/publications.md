@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+For more, see [📚 Google Scholar](https://scholar.google.com/citations?user=YOUR-ID)
 
 ## First-author Work
 
