@@ -7,17 +7,17 @@ redirect_from:
   - /resume
 ---
 
-## **During Postdoctoral Appointment**    
+### **During Postdoctoral Appointment**    
 (as part of the iConnect Lab@SUTD led by Prof. Zehui Xiong)
 
-### **Dianrun Huang** (Joint PhD, Beihang University & SUTD)  
+## **Dianrun Huang** (Joint PhD, Beihang University & SUTD)  
 *Role*:  **Research Mentor** (2024.10 -- 2025.10)    
 *Topic*: Semantic Communication & UAV-Satellite Networks    
 *Supervisors*: Prof. Xianbin Cao, Prof. Zehui Xiong       
 **Outcome**     
 [mentored]  
 
-### **Jiayi Lu** (Joint Master’s student, Beijing Institute of Technology & SUTD)     
+## **Jiayi Lu** (Joint Master’s student, Beijing Institute of Technology & SUTD)     
 *Role*: **Research Mentor** (2024.6 -- 2025.6)   
 *Topic*: Generative Semantic Communication & RSMA     
 *Supervisors*: Prof. Chengwen Xing, Prof. Zehui Xiong           
@@ -27,7 +27,7 @@ redirect_from:
 
 
 
-### **Nan Li** (PhD, SUTD)     
+## **Nan Li** (PhD, SUTD)     
 *Role*: **Research Mentor** (2024.5 -- 2026.5)  
 *Topic*: Edge Generative AI     
 *Supervisors*: Prof. Zehui Xiong     
@@ -35,7 +35,7 @@ redirect_from:
 [mentored]      
 [mentored]    
 
-### **Yiru Wang** (Joint PhD, Beijing University & SUTD)     
+## **Yiru Wang** (Joint PhD, Beijing University & SUTD)     
 *Role*: **Research Mentor**     
 *Topic*: Semantic Commuincation     
 *Supervisors*: Prof. Yuping Zhao, Prof. Zehui Xiong     
@@ -45,7 +45,7 @@ redirect_from:
 [mentored] Y. Wang, **Wanting Yang**, Z. Xiong, Y. Zhao, T. Q. S. Quek and Z. Han, "Harnessing the Power of AI-Generated Content for Semantic Communication," in IEEE Network, vol. 38, no. 5, pp. 102-111, Sept. 2024. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10577142)  
 [Guided] Y. Wang, **Wanting Yang**, P. Guan, Y. Zhao and Z. Xiong, "STAR-RIS-Assisted Privacy Protection in Semantic Communication System," in IEEE Transactions on Vehicular Technology, vol. 73, no. 9, pp. 13915-13920, Sept. 2024. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10487897)
 
-### **Hangyu Yan** (Joint PhD, Jilin University & SUTD)     
+## **Hangyu Yan** (Joint PhD, Jilin University & SUTD)     
 *Role*: **Research Guide**   
 *Topic*: Martingale Theory Applictaions       
 *Supervisors*: Prof. Xuefen Chi, Prof. Zehui Xiong     
