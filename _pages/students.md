@@ -28,16 +28,16 @@ redirect_from:
 
 
 ### **Nan Li** (PhD, SUTD)     
-*Topic*: Edge Generative AI     
 *Role*: **Research Mentor** (2024.5 -- 2026.5)  
+*Topic*: Edge Generative AI     
 *Supervisors*: Prof. Zehui Xiong     
 *Outcome*:  
 [mentored]      
 [mentored]    
 
 ### **Yiru Wang** (Joint PhD, Beijing University & SUTD)     
-*Topic*: Semantic Commuincation     
 *Role*: **Research Mentor**     
+*Topic*: Semantic Commuincation     
 *Supervisors*: Prof. Yuping Zhao, Prof. Zehui Xiong     
 *Outcome*:  
 [mentored]  
@@ -46,8 +46,8 @@ redirect_from:
 [Guided] Y. Wang, **Wanting Yang**, P. Guan, Y. Zhao and Z. Xiong, "STAR-RIS-Assisted Privacy Protection in Semantic Communication System," in IEEE Transactions on Vehicular Technology, vol. 73, no. 9, pp. 13915-13920, Sept. 2024. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10487897)
 
 ### **Hangyu Yan** (Joint PhD, Jilin University & SUTD)     
-*Topic*: Martingale Theory Applictaions    
-*Role*: **Research Guide**      
+*Role*: **Research Guide**   
+*Topic*: Martingale Theory Applictaions       
 *Supervisors*: Prof. Xuefen Chi, Prof. Zehui Xiong     
 *Outcome*: 
 [Guided]  
