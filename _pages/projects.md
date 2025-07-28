@@ -22,6 +22,9 @@ redirect_from:
   **Funding**: *561,835 SGD*  
   **Role**: **Lead Participant**
 
+- **P3823™/D2 Draft Guide for Privacy-Preserving Computation based Data Element Market Price Mechanism**
+- **Role**：**Participant** 
+
 ---
 
 ### Projects During PhD Training
