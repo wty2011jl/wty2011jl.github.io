@@ -49,8 +49,8 @@ redirect_from:
 *Role*: **Research Guide**   
 *Topic*: Martingale Theory Applictaions       
 *Supervisors*: Prof. Xuefen Chi, Prof. Zehui Xiong     
-*Outcome*: 
-[Guided]  
-[Guided]  
+*Outcome*:     
+[Guided]     
+[Guided]     
 [Guided] H. Yan, X. Chi, **Wanting Yang**, Z. Xiong and Z. Han, "Maximum Throughput Analysis in Hybrid Energy Harvesting Wireless Communication Systems Based on Martingale Theory," in IEEE Internet of Things Journal, vol. 11, no. 23, pp. 38054-38067, 1 Dec.1, 2024. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10634856)  
 [Guided] H. Yan, X. Chi, **Wanting Yang** and Z. Han, "End-to-End Delay Analysis for Multi-Hop Wireless Links Based on Martingale Theory," in IEEE Transactions on Vehicular Technology, vol. 73, no. 9, pp. 13090-13096, Sept. 2024. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10502194)  
