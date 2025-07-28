@@ -13,14 +13,14 @@ redirect_from:
 *Topic*: Semantic Communication & UAV-Satellite Networks 
 *Role*: **Research Mentor** (2024.10 -- 2025.10)  
 *Supervisors*: Prof. Xianbin Cao, Prof. Zehui Xiong  
-*Outcome*:
+*Outcome*:  
 **[mentored]**  
 
 ### **Jiayi Lu** (Joint Master’s student, Beijing Institute of Technology & SUTD)  
 *Topic*: Generative Semantic Communication & RSMA  
 *Role*: **Research Mentor** (2024.6 -- 2025.6) 
 *Supervisors*: Prof. Chengwen Xing, Prof. Zehui Xiong 
-**Outcome**: 
+**Outcome**:     
 **[mentored]**    
 **[mentored]** J. Lu, **Wanting Yang**, et al., "Generative Artificial intelligence-Enhanced MultiModal Semantic Communication in Internet of Vehicles: System Design and Methodologies," in IEEE Vehicular Technology Magazine, vol. 20, no. 2, pp. 71-82, June 2025. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10934748)
 
@@ -30,7 +30,7 @@ redirect_from:
 *Topic*: Edge Generative AI  
 *Role*: **Research Mentor** (2024.5 -- 2026.5) 
 *Supervisors*: Prof. Zehui Xiong  
-*Outcome*:
+*Outcome*:    
 **[mentored]**    
 **[mentored]**  
 
@@ -38,7 +38,7 @@ redirect_from:
 *Topic*: Semantic Commuincation  
 *Role*: **Research Mentor**  
 *Supervisors*: Prof. Yuping Zhao, Prof. Zehui Xiong  
-*Outcome*:
+*Outcome*:    
 **[mentored]**  
 **[mentored]** Y. Wang, **Wanting Yang**, Z. Xiong and Y. Zhao, "Temporal Prompt Engineering for Generative Semantic Communication," 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), Washington, DC, USA, 2024, pp. 1-6. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10757628)  
 **[mentored]** Y. Wang, **Wanting Yang**, Z. Xiong, Y. Zhao, T. Q. S. Quek and Z. Han, "Harnessing the Power of AI-Generated Content for Semantic Communication," in IEEE Network, vol. 38, no. 5, pp. 102-111, Sept. 2024. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10577142)  
@@ -48,7 +48,7 @@ redirect_from:
 *Topic*: Martingale Theory Applictaions  
 *Role*: **Research Guide**   
 *Supervisors*: Prof. Xuefen Chi, Prof. Zehui Xiong  
-**Outcome*: 
+**Outcome*:     
 **[Guided]**  
 **[Guided]**  
 **[Guided]** H. Yan, X. Chi, **Wanting Yang**, Z. Xiong and Z. Han, "Maximum Throughput Analysis in Hybrid Energy Harvesting Wireless Communication Systems Based on Martingale Theory," in IEEE Internet of Things Journal, vol. 11, no. 23, pp. 38054-38067, 1 Dec.1, 2024. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10634856)  
