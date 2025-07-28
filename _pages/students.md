@@ -12,7 +12,7 @@ redirect_from:
 ### **Dianrun Huang** (Joint PhD, Beihang University & SUTD)  
 *Topic*: Semantic Communication & UAV-Satellite Networks 
 *Role*: **Research Mentor** (2024.10 -- 2025.10)  
-*Supervisors*: Prof. Xianbin Cao, Prof. Zehui Xiong  
+*Supervisors*: Prof. Xianbin Cao, Prof. Zehui Xiong    
 *Outcome*:  
 **[mentored]**  
 
