@@ -20,8 +20,8 @@ redirect_from:
 ### **Jiayi Lu** (Joint Master’s student, Beijing Institute of Technology & SUTD)     
 *Role*: **Research Mentor** (2024.6 -- 2025.6)   
 *Topic*: Generative Semantic Communication & RSMA     
-*Supervisors*: Prof. Chengwen Xing, Prof. Zehui Xiong        
-*Outcome*: 
+*Supervisors*: Prof. Chengwen Xing, Prof. Zehui Xiong           
+*Outcome*:    
 [mentored]       
 [mentored] J. Lu, **Wanting Yang**, et al., "Generative Artificial intelligence-Enhanced MultiModal Semantic Communication in Internet of Vehicles: System Design and Methodologies," in IEEE Vehicular Technology Magazine, vol. 20, no. 2, pp. 71-82, June 2025. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10934748)
 
