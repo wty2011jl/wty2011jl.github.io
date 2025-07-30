@@ -40,4 +40,3 @@ I specialize in **collaborative perception**, **semantic communication**, and **
 
 ---
 
-> ✨ I enjoy writing surveys, mentoring students, and exploring interdisciplinary AI-communication problems that matter in the real world.
