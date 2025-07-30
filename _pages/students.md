@@ -10,14 +10,14 @@ redirect_from:
 ### **During Postdoctoral Appointment**    
 (as part of the iConnect Lab@SUTD led by Prof. Zehui Xiong)
 
-👨‍💻## **Dianrun Huang** (Joint PhD, Beihang University & SUTD)  
+##👨‍💻 **Dianrun Huang** (Joint PhD, Beihang University & SUTD)  
 *Role*:  **Research Mentor** (2024.10 -- 2025.10)    
 *Topic*: Semantic Communication & UAV-Satellite Networks    
 *Supervisors*: Prof. Xianbin Cao, Prof. Zehui Xiong       
 **Outcome**     
 [mentored]  
 
-👩‍💻## **Jiayi Lu** (Joint Master’s student, Beijing Institute of Technology & SUTD)     
+##👩‍💻 **Jiayi Lu** (Joint Master’s student, Beijing Institute of Technology & SUTD)     
 *Role*: **Research Mentor** (2024.6 -- 2025.6)   
 *Topic*: Generative Semantic Communication & RSMA     
 *Supervisors*: Prof. Chengwen Xing, Prof. Zehui Xiong           
@@ -27,7 +27,7 @@ redirect_from:
 
 
 
-👩‍💻## **Nan Li** (PhD, SUTD)     
+##👩‍💻 **Nan Li** (PhD, SUTD)     
 *Role*: **Research Mentor** (2024.5 -- 2026.5)  
 *Topic*: Edge Generative AI     
 *Supervisors*: Prof. Zehui Xiong     
@@ -36,7 +36,7 @@ redirect_from:
 [mentored]    
 
 
-👨‍💻## **Hangyu Yan** (Joint PhD, Jilin University & SUTD)     
+##👨‍💻 **Hangyu Yan** (Joint PhD, Jilin University & SUTD)     
 *Role*: **Research Guide**  (2024.2 -- 2025.2)      
 *Topic*: Martingale Theory Applictaions       
 *Supervisors*: Prof. Xuefen Chi, Prof. Zehui Xiong     
@@ -46,7 +46,7 @@ redirect_from:
 [Guided] H. Yan, X. Chi, **Wanting Yang**, Z. Xiong and Z. Han, "Maximum Throughput Analysis in Hybrid Energy Harvesting Wireless Communication Systems Based on Martingale Theory," in IEEE Internet of Things Journal, vol. 11, no. 23, pp. 38054-38067, 1 Dec.1, 2024. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10634856)  
 [Guided] H. Yan, X. Chi, **Wanting Yang** and Z. Han, "End-to-End Delay Analysis for Multi-Hop Wireless Links Based on Martingale Theory," in IEEE Transactions on Vehicular Technology, vol. 73, no. 9, pp. 13090-13096, Sept. 2024. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10502194) 
 
-👩‍💻## **Yiru Wang** (Joint PhD, Beijing University & SUTD)     
+##👩‍💻 **Yiru Wang** (Joint PhD, Beijing University & SUTD)     
 *Role*: **Research Mentor** (2023.5 -- 2024.8)    
 *Topic*: Semantic Commuincation     
 *Supervisors*: Prof. Yuping Zhao, Prof. Zehui Xiong     
