@@ -43,6 +43,7 @@ Pillar of Information Systems Technology and Design
 --GPA: **3.48 / 4.0**, Ranking: **10 / 89**
 
 ## Tiny wisdom to keep： 
-- *Every step we take shapes who we become.* :-)    
-- *Dust will settle as we go along.* :D  
-- *Follow intuition in crossroads, reason in routines.* :P  
+>- *Every step we take shapes who we become.* :-)    
+>- *Dust will settle as we go along.* :D  
+>- *Follow intuition in crossroads, reason in routines.* :P
+>- *我太笨了，所以一定要不断学习呀* (≧∇≦)
