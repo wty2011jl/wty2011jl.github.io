@@ -18,7 +18,10 @@ main:
     url: /project-experience/   
 
   - title: "Mentoring Experience"
-    url: /mentoring-experience/    
+    url: /mentoring-experience/ 
+
+  - title: "CV"
+  url: /cv/
 
   - title: "Work Notes"
     url: /work-notes/
