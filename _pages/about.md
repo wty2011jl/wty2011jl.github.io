@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "WANTING Biography"
+title: "WANTING YANG (杨婉婷) Biography"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 Dr. Wanting Yang is currently a Research Scientist at the SUTD Wireless Innovation Centre (SWIC), serving as a Principal Investigator on the project related to generative semantic communication [link](https://www.sutd.edu.sg/research/research-centres/sutd-wireless-innovation-centre/people/principal-investigators/#tabs). Prior to this, she was a Research Fellow with the ISTD and ESD pillars at the Singapore University of Technology and Design (SUTD). She received her B.S. and Ph.D. degrees in Communications Engineering from Jilin University, Changchun, China, in 2018 and 2023, respectively. From October 2021 to November 2022, she was a visiting student at SUTD.
 
-She has served as a Technical Program Committee (TPC) member and reviewer for flagship conferences such as IEEE WCNC, Globecom, ICC, and VTC, as well as for leading journals. Her research interests include semantic communication, deep reinforcement learning, martingale theory, edge computing, edge intelligence, and generative AI.
+She has served as a Technical Program Committee (TPC) member and reviewer for flagship conferences such as IEEE WCNC, Globecom, ICC, and VTC, as well as for leading journals. Her research interests include semantic communication, deep reinforcement learning, martingale theory, edge computing, edge intelligence, and generative AI. She was shortlisted in Asian Deans’ Forum – The Rising Stars Women in Engineering Workshop [link](https://risingstarsasia.org/participants_detail.php?id=220).
 
 ## Work Experience
 
