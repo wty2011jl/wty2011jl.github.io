@@ -21,7 +21,7 @@ main:
     url: /mentoring-experience/ 
 
   - title: "CV"
-  url: /cv/
+    url: /cv/
 
   - title: "Work Notes"
     url: /work-notes/
