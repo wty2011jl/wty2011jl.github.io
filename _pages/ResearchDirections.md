@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Work Notes"
-permalink: /work-notes/
+title: "Research Directions"
+permalink: /research-directions/
 author_profile: true
 redirect_from:
   - /resume
