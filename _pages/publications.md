@@ -12,18 +12,19 @@ For more, see [📚 Google Scholar](https://scholar.google.com/citations?hl=zh-C
 
 ### Survey Papers
 
-- [COMST] **Wanting Yang** et al., "Semantic Communications for Future Internet: Fundamentals, Applications, and Challenges," in IEEE Communications Surveys & Tutorials, vol. 25, no. 1, pp. 213-250, Firstquarter 2023. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9955312) 
+- [COMST] **Wanting Yang** et al., "Semantic Communications for Future Internet: Fundamentals, Applications, and Challenges," in IEEE Communications Surveys & Tutorials, vol. 25, no. 1, pp. 213-250, Firstquarter 2023. [PDF](/files/COMST_Semantic_Communications_for_Future_Internet_Fundamentals_Applications_and_Challenges.pdf) [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9955312) 
 
 ### Technical Papers
 
-- [TMC] **Wanting Yang**, Z. Xiong, S. Guo, S. Mao, D. I. Kim and M. Debbah, "Efficient Multi-user Offloading of Personalized Diffusion Models: A DRL-Convex Hybrid Solution," in IEEE Transactions on Mobile Computing, 2025. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10964151)
-- [TWC] **Wanting Yang**, Z. Xiong, Y. Yuan, W. Jiang, T. Q. S. Quek and M. Debbah, "Agent-Driven Generative Semantic Communication With Cross-Modality and Prediction," in IEEE Transactions on Wireless Communications, vol. 24, no. 3, pp. 2233-2248, March 2025. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10815060)
-- [TCOM] **Wanting Yang**, X. Chi, L. Zhao, Z. Xiong and W. Jiang, "Task-Driven Semantic-Aware Green Cooperative Transmission Strategy for Vehicular Networks," in IEEE Transactions on Communications, vol. 71, no. 10, pp. 5783-5798, Oct. 2023. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10198474)
-- [TVT] **Wanting Yang**, X. Chi, L. Zhao and R. Qi, "Predictive Two-Timescale Resource Allocation for VoD Services in Fast Moving Scenarios," in IEEE Transactions on Vehicular Technology, vol. 70, no. 10, pp. 10002-10017, Oct. 2021. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9479769)
+- [TMC] **Wanting Yang**, Z. Xiong, S. Guo, S. Mao, D. I. Kim and M. Debbah, "Efficient Multi-user Offloading of Personalized Diffusion Models: A DRL-Convex Hybrid Solution," in IEEE Transactions on Mobile Computing, 2025. [PDF](/files/Efficient_Multi-User_Offloading_of_Personalized_Diffusion_Models_A_DRL-Convex_Hybrid_Solution.pdf) [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10964151)
+- [TWC] **Wanting Yang**, Z. Xiong, Y. Yuan, W. Jiang, T. Q. S. Quek and M. Debbah, "Agent-Driven Generative Semantic Communication With Cross-Modality and Prediction," in IEEE Transactions on Wireless Communications, vol. 24, no. 3, pp. 2233-2248, March 2025. [PDF](/files/TWC_Agent-Driven_Generative_Semantic_Communication_With_Cross-Modality_and_Prediction.pdf) [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10815060)
+- [TCOM] **Wanting Yang**, X. Chi, L. Zhao, Z. Xiong and W. Jiang, "Task-Driven Semantic-Aware Green Cooperative Transmission Strategy for Vehicular Networks," in IEEE Transactions on Communications, vol. 71, no. 10, pp. 5783-5798, Oct. 2023. [PDF](/files/TCOM_Task-Driven_Semantic-Aware_Green_Cooperative_Transmission_Strategy_for_Vehicular_Networks.pdf) [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10198474)
+- [TVT] **Wanting Yang**, X. Chi, L. Zhao and R. Qi, "Predictive Two-Timescale Resource Allocation for VoD Services in Fast Moving Scenarios," in IEEE Transactions on Vehicular Technology, vol. 70, no. 10, pp. 10002-10017, Oct. 2021. [PDF](/files/Predictive%20Two-Timescale%20Resource%20Allocation%20for%20VoD%20Services%20in%20Fast%20Moving%20Scenarios.pdf) [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9479769)
 
 ###  Magazine Articles
 
 - [WCM] **Wanting Yang** et al., "Rethinking Generative Semantic Communication for Multi-User Systems with Large Language Models," in IEEE Wireless Communications, 2025. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10972177)
+- [WCM] **Wanting Yang** et al., "Semantic Communication Meets Edge Intelligence," in IEEE Wireless Communications, 2022. [PDF](/files/Semantic%20Communication%20Meets%20Edge%20Intelligence.pdf)
 - [Network] **Wanting Yang**, Z. Xiong, T. Q. S. Quek and X. Shen, "Streamlined Transmission: A Semantic-Aware XR Deployment Framework Enhanced by Generative AI," in IEEE Network, vol. 38, no. 6, pp. 29-38, Nov. 2024. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10557693)
 
 ### Letters
