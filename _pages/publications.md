@@ -24,7 +24,7 @@ For more, see [📚 Google Scholar](https://scholar.google.com/citations?hl=zh-C
 ###  Magazine Articles
 
 - [WCM] **Wanting Yang** et al., "Rethinking Generative Semantic Communication for Multi-User Systems with Large Language Models," in IEEE Wireless Communications, 2025. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10972177)
-- [WCM] **Wanting Yang** et al., "Semantic Communication Meets Edge Intelligence," in IEEE Wireless Communications, 2022. [PDF](/files/Semantic%20Communication%20Meets%20Edge%20Intelligence.pdf)
+- [WCM] **Wanting Yang** et al., "Semantic Communication Meets Edge Intelligence," in IEEE Wireless Communications, vol. 29, no. 5, pp. 28-35, October 2022. [PDF](/files/Semantic%20Communication%20Meets%20Edge%20Intelligence.pdf)
 - [Network] **Wanting Yang**, Z. Xiong, T. Q. S. Quek and X. Shen, "Streamlined Transmission: A Semantic-Aware XR Deployment Framework Enhanced by Generative AI," in IEEE Network, vol. 38, no. 6, pp. 29-38, Nov. 2024. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10557693)
 
 ### Letters
